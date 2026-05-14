@@ -184,7 +184,7 @@ The Excel dashboard provides:
 - Peak order hours were between 12 PM–1 PM and after 4 PM
 - Classic category pizzas contributed the highest sales and total orders
 - Large-sized pizzas generated the highest sales contribution
-- Thai Chicken Pizza and Classic Deluxe Pizza were among the top-performing products
+- The Classic Deluxe Pizza and The Barbecue Chicken Pizza were among the top-performing products
 - Brie Carre Pizza showed the lowest overall sales performance
 
 ---
