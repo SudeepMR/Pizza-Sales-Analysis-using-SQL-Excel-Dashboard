@@ -21,8 +21,7 @@ The project demonstrates:
 
 Below is the interactive dashboard developed for pizza sales performance monitoring and business analysis.
 
-
-::contentReference[oaicite:0]{index=0}
+![Pizza Sales Dashboard](https://github.com/SudeepMR/Pizza-Sales-Analysis-using-SQL-Excel-Dashboard/blob/2d64627cee87afe6a92e9dd08f3ff0de8204b3e9/Dashboard_Screenshots/dashboard_cover.PNG)
 
 
 ### Dashboard Includes
@@ -35,8 +34,6 @@ Below is the interactive dashboard developed for pizza sales performance monitor
 - Top 5 best-selling pizzas
 - Bottom 5 low-performing pizzas
 - Operational and sales performance insights
-
-📄 Full Presentation: [View Presentation](Presentation/Pizza_Sales_Analysis_Presentation.pdf)
 
 ---
 
