@@ -210,18 +210,6 @@ The Excel dashboard provides:
 
 ---
 
-## LinkedIn Presentation
-
-This project was also presented on LinkedIn with a walkthrough explaining:
-- SQL analysis approach
-- Excel dashboard development
-- KPI tracking and trend analysis
-- Business insights and recommendations
-
-🔗 LinkedIn Post: [Add Your LinkedIn Post Link Here]
-
----
-
 ## Resume Highlights
 
 - Analyzed pizza sales data using SQL and Excel to identify revenue trends, customer ordering behavior, and product performance insights
